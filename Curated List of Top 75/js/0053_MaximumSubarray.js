@@ -5,7 +5,6 @@
  
 
 
-
 var maxSubArray = function(nums) {
     let solution = nums[0];
     for(let i = 1; i<nums.length; i++){
